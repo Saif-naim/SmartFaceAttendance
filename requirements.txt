@@ -1,0 +1,6 @@
+customtkinter
+mysql-connector-python
+opencv-python
+pillow
+pandas
+numpy
